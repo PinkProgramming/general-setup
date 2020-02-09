@@ -18,6 +18,6 @@ Run this command in a terminal/commandline to find out:
 - Check if it is installed now
 
 ## Windows
-An installer can be found here:  
+- Run the installer from:  
 https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot
 - Check if it is installed now

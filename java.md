@@ -8,9 +8,11 @@ Run this command in a terminal/commandline to find out:
 
 ## Mac
 - Have brew installed: https://brew.sh/   
+- Run this command in a terminal/commandline  
 ```brew cask install java```
 
 ## Ubuntu
+- Run this command in a terminal/commandline  
 ```sudo apt install default-jdk```
 
 ## Windows
